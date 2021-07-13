@@ -5,7 +5,7 @@ $section-headings-color: #660066;
 img {
   border-radius: 50%;
   max-width: 100%;
-  height: auto;
+  height: 100%;
 }
 /* Sticky navbar - toggles between relative and fixed, depending on the scroll position. 
 It is positioned relative until a given offset position is met in the viewport - then it "sticks" in place (like position:fixed). 
