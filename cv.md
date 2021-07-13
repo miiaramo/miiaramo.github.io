@@ -27,13 +27,13 @@ https://openreq.eu
 
 ### Education
 
-#### M.Sc. in Data Science**
+#### M.Sc. in Data Science
 
 _University of Helsinki (2018 - 2021)_
 
 2018 - 2021
 
-#### B.Sc. in Computer Science**
+#### B.Sc. in Computer Science
 
 _University of Helsinki (2015 - 2018)_
 
