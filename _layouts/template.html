@@ -39,13 +39,11 @@
     </header>
     
     <div class="navbar">
-      <a href="#" class="active">Home</a>
-      <a href="#">Link</a>
-      <a href="#">Link</a>
-      <a href="#" class="right">Link</a>
+      {% for page in site.pages %}
+        <a href={{ page.filename }}>{{ page.title }}</a>
+      {% endfor %}
     </div>
-
-    
+   
     <div class="row">
       <div class="side">
         <h2>About Me</h2>
