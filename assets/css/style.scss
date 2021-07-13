@@ -4,8 +4,8 @@ $section-headings-color: #660066;
 @import "{{ site.theme }}";
 img {
   border-radius: 50%;
-  width: 200px;
-  height: 200px;
+  max-width: 100%;
+  height: auto;
 }
 /* Sticky navbar - toggles between relative and fixed, depending on the scroll position. 
 It is positioned relative until a given offset position is met in the viewport - then it "sticks" in place (like position:fixed). 
@@ -52,15 +52,15 @@ However, for these versions the navbar will inherit default position */
 /* Create two unequal columns that sits next to each other */
 /* Sidebar/left column */
 .side {
-  -ms-flex: 30%; /* IE10 */
-  flex: 30%;
-  background-color: #f1f1f1;
+  -ms-flex: 10%; /* IE10 */
+  flex: 20%;
+  background-color: white;
   padding: 20px;
 }
 /* Main column */
 .main {   
-  -ms-flex: 70%; /* IE10 */
-  flex: 70%;
+  -ms-flex: 80%; /* IE10 */
+  flex: 80%;
   background-color: white;
   padding: 20px;
 }
