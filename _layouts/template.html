@@ -24,8 +24,8 @@
   <body>
     <!-- <a id="skip-to-content" href="#content">Skip to the content.</a> -->
      <div class="navbar">
-      {% for page in site.pages %}
-        <a href={{ page.filename }}>{{ page.title }}</a>
+      <a href={{ index.filename }}>{{ index.title }}</a>
+      <a href={{ cv.filename }}>{{ cv.title }}</a>
       {% endfor %}
       <a href="https://miiaramo.medium.com/" class="right">Medium</a>
     </div>
@@ -66,3 +66,7 @@
     </main>
   </body>
 </html>
+
+<!--{% for page in site.pages %}
+        <a href={{ page.filename }}>{{ page.title }}</a>
+      {% endfor %}-->
