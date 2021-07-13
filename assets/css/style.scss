@@ -52,7 +52,7 @@ However, for these versions the navbar will inherit default position */
 /* Create two unequal columns that sits next to each other */
 /* Sidebar/left column */
 .side {
-  -ms-flex: 10%; /* IE10 */
+  -ms-flex: 20%; /* IE10 */
   flex: 20%;
   background-color: white;
   padding: 20px;
