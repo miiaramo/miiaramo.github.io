@@ -51,14 +51,14 @@ However, for these versions the navbar will inherit default position */
 }
 /* Create two unequal columns that sits next to each other */
 /* Sidebar/left column */
-.side {
+.images {
+  display: inline-block;
   background-color: white;
   padding: 20px;
 }
 /* Main column */
 .main {   
-  /*-ms-flex: 70%; 
-  flex: 70%;*/
   background-color: white;
+  padding: 20px;
 }
 
