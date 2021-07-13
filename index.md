@@ -1,7 +1,7 @@
 ---
 title: About me
 layout: template
-filename: aboutme
+filename: index
 --- 
 
 ## Hello
