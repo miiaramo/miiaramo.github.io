@@ -31,8 +31,6 @@ https://openreq.eu
 
 _University of Helsinki (2018 - 2021)_
 
-2018 - 2021
-
 #### B.Sc. in Computer Science
 
 _University of Helsinki (2015 - 2018)_
