@@ -13,7 +13,7 @@ It is positioned relative until a given offset position is met in the viewport -
 The sticky value is not supported in IE or Edge 15 and earlier versions. 
 However, for these versions the navbar will inherit default position */
 .navbar {
-  overflow: hidden;
+  /*overflow: hidden;*/
   background-color: #660066;
   position: sticky;
   position: -webkit-sticky;
