@@ -1,9 +1,12 @@
 ---
 ---
+@import "{{ site.theme }}";
 h2 {
   color: #660066;
 }
-@import "{{ site.theme }}";
+h3 {
+  color: #660066;
+}
 img {
   border-radius: 50%;
   width: 200px;
@@ -40,5 +43,8 @@ However, for these versions the navbar will inherit default position */
 }
 .page-header {
   background: linear-gradient(to right, #660066 0%, #ff9999 100%);
+  text-align: center;
+  padding: 80px;
+  color: white;
 }
 
