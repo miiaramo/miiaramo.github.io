@@ -11,7 +11,7 @@ The sticky value is not supported in IE or Edge 15 and earlier versions.
 However, for these versions the navbar will inherit default position */
 .navbar {
   overflow: hidden;
-  background-color: #67194e;
+  background-color: #660066;
   position: sticky;
   position: -webkit-sticky;
   top: 0;
@@ -31,8 +31,10 @@ However, for these versions the navbar will inherit default position */
 }
 /* Change color on hover */
 .navbar a:hover {
-  background-color: #d246a6;
+  background-color: #ff9999;
   color: black;
 }
-
+.header {
+  background: linear-gradient(to right, #660066 0%, #ff9999 100%);
+}
 
