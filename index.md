@@ -5,3 +5,5 @@ filename: index
 --- 
 
 ## Hello
+
+![avatar](./miiaramo.png "Miia Rämö")
