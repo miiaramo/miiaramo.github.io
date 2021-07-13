@@ -1,10 +1,9 @@
 ---
 ---
-
-@import "{{ site.theme }}";
 h2 {
   color: #660066;
 }
+@import "{{ site.theme }}";
 img {
   border-radius: 50%;
   width: 200;
