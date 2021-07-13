@@ -6,6 +6,7 @@ img {
   border-radius: 50%;
   max-width: 100%;
   max-height: 100%;
+  display: inline-block;
 }
 /* Sticky navbar - toggles between relative and fixed, depending on the scroll position. 
 It is positioned relative until a given offset position is met in the viewport - then it "sticks" in place (like position:fixed). 
@@ -52,7 +53,6 @@ However, for these versions the navbar will inherit default position */
 /* Create two unequal columns that sits next to each other */
 /* Sidebar/left column */
 .images {
-  display: inline-block;
   background-color: white;
   padding: 20px;
 }
