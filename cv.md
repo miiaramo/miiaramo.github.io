@@ -36,6 +36,4 @@ _University of Helsinki (2018 - 2021)_
 _University of Helsinki (2015 - 2018)_
 
 
-### Skills
-
 
