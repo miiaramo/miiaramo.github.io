@@ -4,6 +4,8 @@
 @import "{{ site.theme }}";
 img {
   border-radius: 50%;
+  width: 200;
+  height: 200;
 }
 /* Sticky navbar - toggles between relative and fixed, depending on the scroll position. 
 It is positioned relative until a given offset position is met in the viewport - then it "sticks" in place (like position:fixed). 
