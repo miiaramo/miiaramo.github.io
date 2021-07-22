@@ -35,5 +35,19 @@ _University of Helsinki (2018 - 2021)_
 
 _University of Helsinki (2015 - 2018)_
 
+### Publications
+
+#### Using contextual and cross-lingual word embeddings to improve variety in template-based NLG for automated journalism
+
+_April 2021, in Proceedings of the EACL Hackashop on News Media Content Analysis and Automated Report Generation_
+
+[Link to resource](https://aclanthology.org/2021.hackashop-1.9/)
+
+#### (Re)lexicalization of auto-written news with contextual and cross-lingual word embeddings
+
+_2020, Master's thesis at University of Helsinki_
+
+[Link to resource](http://urn.fi/URN:NBN:fi:hulib-202011254592)
+
 
 
